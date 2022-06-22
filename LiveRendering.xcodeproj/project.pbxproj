@@ -13,6 +13,7 @@
 		59B7C92528634C79004E4FA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59B7C92328634C79004E4FA5 /* Main.storyboard */; };
 		59B7C92728634C83004E4FA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59B7C92628634C83004E4FA5 /* Assets.xcassets */; };
 		59B7C92A28634C83004E4FA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59B7C92828634C83004E4FA5 /* LaunchScreen.storyboard */; };
+		59B7C93228634E2F004E4FA5 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59B7C93128634E2F004E4FA5 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		59B7C92628634C83004E4FA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59B7C92928634C83004E4FA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59B7C92B28634C83004E4FA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59B7C93128634E2F004E4FA5 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				59B7C91D28634C79004E4FA5 /* AppDelegate.swift */,
 				59B7C91F28634C79004E4FA5 /* SceneDelegate.swift */,
 				59B7C92128634C79004E4FA5 /* ViewController.swift */,
+				59B7C93128634E2F004E4FA5 /* CircleView.swift */,
 				59B7C92328634C79004E4FA5 /* Main.storyboard */,
 				59B7C92628634C83004E4FA5 /* Assets.xcassets */,
 				59B7C92828634C83004E4FA5 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59B7C93228634E2F004E4FA5 /* CircleView.swift in Sources */,
 				59B7C92228634C79004E4FA5 /* ViewController.swift in Sources */,
 				59B7C91E28634C79004E4FA5 /* AppDelegate.swift in Sources */,
 				59B7C92028634C79004E4FA5 /* SceneDelegate.swift in Sources */,
